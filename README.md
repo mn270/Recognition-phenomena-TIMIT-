@@ -1,2 +1,2 @@
 # Recognition-phenomena-TIMIT-
-Create a simple ASR whitch CTC, BLSTM and CNN
+Create a simple ASR whith CTC, BLSTM and CNN
